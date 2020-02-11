@@ -18,4 +18,4 @@ over 58.7%, with no additional data required. And we achieved the 9th among 98 t
 has a outstanding performance in the classification of matrix
 produced from natural language has been recorded.
 
-[Report available here:](https://github.com/JimShu716/Reddit-Comments-Classification/blob/master/Report.pdf)
+Report available: [ here](https://github.com/JimShu716/Reddit-Comments-Classification/blob/master/Report.pdf)
