@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning Project
 ## Investigation of feature extraction and model selection in Natural Language Processing
 ### Contributors:
 Hao Shu, Gengyi Sun, Han Zhou
